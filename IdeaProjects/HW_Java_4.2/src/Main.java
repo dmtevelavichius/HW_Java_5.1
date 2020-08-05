@@ -1,13 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        BmiService service = new BmiService();
-        int growth = 170;
+        BmiService indexService = new BmiService();
+        double growth = 170;
         int weight = 75;
-        int variable = 10000;
-        long doubleGrowth = (growth * growth)/ variable;
-        long index = service.calculate(weight) / doubleGrowth;
+        double result=indexService.calculate(growth,weight);
 
-        System.out.println(index);
+        System.out.println(result);
 
     }
 }
