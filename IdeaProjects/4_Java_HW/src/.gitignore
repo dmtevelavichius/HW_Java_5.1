@@ -45,3 +45,12 @@ out/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+/HW_Java_4.1/src/.gitignore
+/HW_Java_4.1/src/BonusMilesService.java
+/HW_Java_4.1/src/Main.java
+/HW_Java_4.2/src/.gitignore
+/HW_Java_4.2/src/BmiService.java
+/HW_Java_4.2/src/Main.java
+/HW_Java_4/src/.gitignore
+/HW_Java_4/src/BonusMilesService.java
+/HW_Java_4/src/Main.java
